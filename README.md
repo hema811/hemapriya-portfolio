@@ -15,7 +15,7 @@ I'm a Data Science postgraduate student at **Middlesex University, London**, pas
 **Highlights:**  
 - Clustered teams by tactical behavior and performance.  
 - Visualized trends using pass networks and shot maps.  
-[🔗 View Project Repository](https://github.com/yourusername/football-performance-analyzer)
+[🔗 View Project Repository](https://github.com/hema811/Sports-Performance-Analyzer.git)
 
 ---
 
