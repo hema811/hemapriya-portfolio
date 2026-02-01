@@ -1,7 +1,8 @@
-# Hema Priya Pandhiti – Data Analytics & BI Portfolio
+# Hema Priya Pandhiti – Data Analyst Portfolio
 
-Data Analyst with a strong foundation in Data Science, specialising in **Power BI, Python, SQL, and data storytelling**.  
-Postgraduate in Data Science from **Middlesex University, London**, with hands-on experience transforming complex datasets into actionable business insights through dashboards, analytics, and machine learning.
+Data Analyst with experience in Power BI, SQL, and Python, focused on transforming raw data into actionable business insights through analytics and dashboards.
+
+Postgraduate in Data Science from Middlesex University, London, with hands-on experience across Business Intelligence, analytics, and applied machine learning projects.
 
 This portfolio showcases selected projects across **Business Intelligence, Analytics, NLP, and Applied Data Science**.
 
