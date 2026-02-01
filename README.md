@@ -1,51 +1,83 @@
-# hemapriya-portfolio
-“A collection of my Data Science projects including Machine Learning, NLP, and Data Visualization work.”
-# 👩‍💻 Hema Priya Pandhiti – Data Science Portfolio
+# Hema Priya Pandhiti – Data Analytics & BI Portfolio
 
-Welcome to my Data Science portfolio!  
-I'm a Data Science postgraduate student at **Middlesex University, London**, passionate about turning data into actionable insights using **Python, Machine Learning, NLP, and Power BI**.
+Data Analyst with a strong foundation in Data Science, specialising in **Power BI, Python, SQL, and data storytelling**.  
+Postgraduate in Data Science from **Middlesex University, London**, with hands-on experience transforming complex datasets into actionable business insights through dashboards, analytics, and machine learning.
+
+This portfolio showcases selected projects across **Business Intelligence, Analytics, NLP, and Applied Data Science**.
 
 ---
 
-## 📊 Featured Projects
+## 📌 Featured Projects
+
+### 📊 Mental Health Analytics – Power BI
+**Objective:** Analyse workplace mental health trends to understand treatment-seeking behaviour, organisational culture, and productivity impact.  
+**Tools:** Power BI (DAX, Power Query), Python, SQL  
+**Key Highlights:**
+- Built an interactive Power BI dashboard with KPI cards, slicers, and comparative visuals.
+- Analysed treatment rates by company size and benefits access.
+- Compared comfort discussing mental health with supervisors vs coworkers.
+- Identified frequent work interference linked to untreated mental health conditions.
+
+🔗 **Repository:** https://github.com/hema811/mental-health-analytics-powerbi
+
+---
 
 ### ⚽ Football Performance Analyzer
-**Goal:** Analyze World Cup (2018–2022) data to uncover team play styles and evolution.  
-**Tech:** Python, Pandas, NumPy, Plotly, mplsoccer, PCA, K-Means  
-**Highlights:**  
-- Clustered teams by tactical behavior and performance.  
-- Visualized trends using pass networks and shot maps.  
-[🔗 View Project Repository](https://github.com/hema811/Sports-Performance-Analyzer.git)
+**Objective:** Analyse FIFA World Cup (2018–2022) data to uncover team performance patterns and tactical evolution.  
+**Tools:** Python, Pandas, NumPy, Plotly, mplsoccer, PCA, K-Means  
+**Key Highlights:**
+- Clustered national teams based on tactical behaviour and performance metrics.
+- Visualised playing styles using pass networks, shot maps, and radar charts.
+- Identified strategic differences between tournament editions.
+
+🔗 **Repository:** https://github.com/hema811/Sports-Performance-Analyzer
 
 ---
 
-### 🧠 Mental Health Trend Analysis (Dissertation)
-**Goal:** Study emotional patterns using Reddit & BRFSS survey data.  
-**Tech:** Python, NLP, Scikit-learn, BERT, Power BI, Streamlit  
-**Highlights:**  
-- Built ML models (SVM, Random Forest, BERT) for sentiment classification.  
-- Delivered a real-time interactive dashboard for policymakers.  
-[🔗 View Project Repository](https://github.com/hema811/mental_health_NLP_analysis.git)
+### 🧠 Mental Health Trend Analysis (NLP – Dissertation)
+**Objective:** Explore public emotional trends and mental health indicators using social media and survey data.  
+**Tools:** Python, NLP, Scikit-learn, BERT, Power BI, Streamlit  
+**Key Highlights:**
+- Built sentiment classification models using SVM, Random Forest, and BERT.
+- Integrated Reddit data with BRFSS survey data for behavioural analysis.
+- Developed an interactive dashboard to communicate insights to non-technical audiences.
+
+🔗 **Repository:** https://github.com/hema811/mental_health_NLP_analysis
 
 ---
 
 ## 🧰 Technical Skills
-**Languages:** Python, R, SQL  
-**Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly, BERT  
-**Visualization:** Power BI, Tableau, Streamlit  
-**Databases:** MySQL, PostgreSQL  
-**Concepts:** Machine Learning, NLP, Predictive Analytics, Data Cleaning, EDA
+
+**Analytics & BI**
+- Power BI (DAX, Power Query, KPI Design, Dashboard UX/UI)
+- Data Modelling (Star Schema concepts, analytical datasets)
+- SQL (Joins, Aggregations, Data Exploration, Quality Checks)
+
+**Programming & Data Science**
+- Python (Pandas, NumPy, Scikit-learn)
+- NLP (Text preprocessing, Sentiment Analysis, BERT)
+- Exploratory Data Analysis (EDA)
+
+**Visualisation & Reporting**
+- Power BI, Streamlit, Plotly, Matplotlib
+
+**Databases**
+- MySQL, PostgreSQL
 
 ---
 
-## 🏆 Certifications
-- Python for Data Science – IBM  
-- Power BI for Data Analytics – LinkedIn Learning  
-- Machine Learning Specialization – IBM (In Progress)
+## 🎓 Education
+**MSc Data Science** – Middlesex University, London
+
+---
+
+## 📜 Certifications
+- Data Analysis course - IBM
 
 ---
 
 ## 📬 Contact
 📧 **pandhitihemapriya999@gmail.com**  
-🔗 [LinkedIn](https://www.linkedin.com/in/hemapriya-pandhiti-b12a35347/)  
-💻 [GitHub](https://github.com/hema811)
+🔗 **LinkedIn:** https://www.linkedin.com/in/hemapriya-pandhiti-b12a35347  
+💻 **GitHub:** https://github.com/hema811
+
