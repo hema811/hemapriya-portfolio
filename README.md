@@ -9,7 +9,20 @@ This portfolio showcases selected projects across **Business Intelligence, Analy
 ---
 
 ## 📌 Featured Projects
+### 📊Retail Sales Performance Dashboard – Power BI
 
+**Objective:**: Analyse retail transaction data (2010–2011) to evaluate revenue trends, product performance, and customer segmentation patterns.
+**Tools:**  Power BI (DAX, Data Modeling), SQL, Excel
+**Key Highlights:**
+- Built a 2-page interactive Power BI dashboard with KPI cards, slicers, and dynamic visuals.
+- Designed DAX measures to calculate Total Revenue, Orders, Customers, Quantity, and Customer Segments.
+- Identified seasonal revenue peaks and top-performing products and countries.
+- Performed customer segmentation (High/Mid/Low value) and repeat customer analysis.
+- Created executive-style reports using Top-N filtering and trend analysis.
+
+🔗 **Repository:** https://github.com/hema811/Retail-Sales-Performance-Dashboard
+
+---
 ### 📊 Mental Health Analytics – Power BI
 **Objective:** Analyse workplace mental health trends to understand treatment-seeking behaviour, organisational culture, and productivity impact.  
 **Tools:** Power BI (DAX, Power Query), Python, SQL  
